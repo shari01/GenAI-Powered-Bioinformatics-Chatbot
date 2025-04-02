@@ -64,15 +64,6 @@
 
 <hr>
 
-<h2>🧬 Upcoming Features</h2>
-
-<ul>
-  <li><b>Biological Pathway Enrichment</b> — Accept gene lists and output enriched GO, KEGG, or Reactome pathways</li>
-  <li>Tools to be integrated: <code>gseapy</code>, <code>Enrichr API</code>, and <code>BioServices</code></li>
-</ul>
-
-<hr>
-
 <h2>🔬 Use Case Examples</h2>
 
 <ul>
