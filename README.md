@@ -1,5 +1,12 @@
 <h1 align="center">🧬 GenAI-Powered Bioinformatics Chatbot</h1>
 <p align="center"><b>Built with Groq · LangGraph · FastAPI · Streamlit</b></p>
+<h2 align="center">🖼️ Application Screenshots</h2>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1q5z6I2Eq9RV_CYTVSkp3tb8ws5QBRlrF" alt="Screenshot 1" width="600"/><br><br>
+  <img src="https://drive.google.com/uc?export=view&id=1nhuwk5c2yLeN0KOOBZcxCtPbMk0LSE3q" alt="Screenshot 2" width="600"/><br><br>
+  <img src="https://drive.google.com/uc?export=view&id=1o8m5pLGDeXCxnCCCsyyVyH4RlWLbD5ek" alt="Screenshot 3" width="600"/>
+</p>
 
 <p align="center">
   A full-stack GenAI chatbot designed for real-time bioscience and clinical research queries.<br>
