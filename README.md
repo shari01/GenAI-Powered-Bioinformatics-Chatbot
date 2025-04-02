@@ -73,14 +73,4 @@
   <li>Research-focused AI Q&A workflows</li>
 </ul>
 
-<hr>
-
-<h2>👨‍💻 Author</h2>
-
-<p>
-  <b>Sheryar Malik</b><br>
-  MPhil Bioinformatics | Remote Bioinformatics Developer<br>
-  <i>AI-first tools for molecular biology and translational research</i>
-</p>
-
 <h3 align="center">⭐ Star · Fork · Use · Suggest Features</h3>
