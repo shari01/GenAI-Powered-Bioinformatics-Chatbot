@@ -1,5 +1,4 @@
-# GenAI-Powered-Bioinformatics-Chatbot
-A full-stack LLM-powered chatbot designed for bioscience and clinical research queries — from pathway analysis to molecular Q&amp;A.
+
 
 <h1 align="center">🧬 GenAI-Powered Bioinformatics Chatbot</h1>
 <p align="center"><b>Built with Groq · LangGraph · FastAPI · Streamlit</b></p>
