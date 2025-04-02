@@ -72,5 +72,3 @@
   <li>Explain phosphoproteomics + transcriptomics integration</li>
   <li>Research-focused AI Q&A workflows</li>
 </ul>
-
-<h3 align="center">⭐ Star · Fork · Use · Suggest Features</h3>
